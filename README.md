@@ -6,4 +6,4 @@ Website Captive Portal for the Customer to Log-in before accessing the WiFi:
 Voucher Code Customization via Excel and Word:
 ![image](https://github.com/user-attachments/assets/34ad412e-9e0c-493c-b4a9-46fda395b6e4)
 
-© 2025, Jen Beatrix Maristela, All rights reserved.
+© 2024, Jen Beatrix Maristela, All rights reserved.
